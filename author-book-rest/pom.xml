@@ -7,6 +7,7 @@
         <artifactId>author-book-modular</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+    <groupId>am.itspace</groupId>
     <artifactId>author-book-rest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>author-book-rest</name>
@@ -15,6 +16,7 @@
         <java.version>17</java.version>
     </properties>
     <dependencies>
+
         <dependency>
             <groupId>am.itspace</groupId>
             <artifactId>author-book-common</artifactId>

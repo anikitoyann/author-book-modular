@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc3ea966-62e3-46f2-acc1-fe0cff976d26" name="Changes" comment="" />
+    <list default="true" id="cc3ea966-62e3-46f2-acc1-fe0cff976d26" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7d0b63c9-6e9a-4d97-809e-c0fa43fc0e00.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7d0b63c9-6e9a-4d97-809e-c0fa43fc0e00.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-book-common/src/main/resources/liquibase/changelog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/author-book-common/src/main/resources/liquibase/changelog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-book-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/author-book-rest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-book-rest/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/author-book-rest/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-book-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/author-book-web/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/Ashoti cragir/author-book-rest",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/modular-project/author-book-modular",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +62,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap",
-    "spring.configuration.checksum": "51fd619c25fc7f599c6eee1008912ada",
+    "spring.configuration.checksum": "064e5fc5c8635cee47b332d2ef3f9b8a",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -138,6 +148,8 @@
       <workItem from="1687189359236" duration="1250000" />
       <workItem from="1687190717103" duration="1209000" />
       <workItem from="1687192732715" duration="10890000" />
+      <workItem from="1687280462401" duration="343000" />
+      <workItem from="1687280889819" duration="1346000" />
     </task>
     <servers />
   </component>
